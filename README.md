@@ -27,7 +27,7 @@ Combine geospatical data with population data to generate maps for state and fed
  * Weighted Number of split boundaries (smaller boundaries like a high school attendance area) are given more weight, so splitting those is discouraged
  * Avg distance from the center of any district to all of its boundaries. (Boundaries should be both navigable and contigous).
 
-** What the project does not consider **
+**What the project does not consider**
 
 * Political affiliation
 * Race
